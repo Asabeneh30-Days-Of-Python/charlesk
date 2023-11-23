@@ -1,0 +1,12 @@
+body{
+	color: green;background-color: mediumaquamarine;
+}
+h2{
+	color:palegoldenrod;background-color: seagreen;border-bottom: 2px dashed;border-top: 2px solid;
+}
+body{
+	opacity: 80%;background-image:url(https://th.bing.com/th/id/R.49735b38c27ca67787e201a8f4b0fd6d?rik=Yeba4oTgZZIBBA&riu=http%3a%2f%2favante.biz%2fwp-content%2fuploads%2fDownload-hd-backgrounds%2fDownload-hd-backgrounds-041.jpg&ehk=Nk5YhR00vTCJR2p4kaMj5MKuYzVr36EkV8C9ayV0Ijw%3d&risl=&pid=ImgRaw&r=0) ;
+}
+table{
+	background-color: bisque;
+}
